@@ -4,18 +4,16 @@
   <ul align="center">
     <summary><h4 style="display: inline-block">Computers are like a bicycle for the mind. - Steve Jobs</h4></summary>
   </ul>
-</div>
-<div id="user-content-toc">
   <ul align="center">
     <summary><h4 style="display: inline-block">Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs</h4></summary>
   </ul>
 </div>
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+
   <ul align="center">
-    <summary><h4 style="display: inline-block">Technologies That I Know; but not limited to...</h4></summary>
+    <summary><h4 style="display: inline-block">Things I know; but not limited to...</h4></summary>
   </ul>
-</div>
+ 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +46,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">Connect With Me🤝 Cheers! </h4></summary>
+    <summary><h4 style="display: inline-block">Connect With Me 🤝 Cheers! </h4></summary>
   </ul>
 </div>
 
