@@ -10,9 +10,9 @@
 </div>
 <!--h1 without bottom border-->
 
-  <ul align="center">
-    <summary><h4 style="display: inline-block">Things I know; but not limited to...</h4></summary>
-  </ul>
+  <div align="center">
+    <h4 style="display: block">Things I know; but not limited to...</h4>
+  </div>
  
 <!--tech stack icons-->
 <p align="center">
