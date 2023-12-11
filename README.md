@@ -2,7 +2,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">Computers are like a bicycle for the mind. - Steve Jobs</h4></summary>
+<!--     <summary><h4 style="display: inline-block">Computers are like a bicycle for the mind. - Steve Jobs</h4></summary> -->
     <summary><h4 style="display: inline-block">Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs</h4></summary>
   </ul>
 </div>
