@@ -10,9 +10,10 @@
 </div>
 <!--h1 without bottom border-->
 
-  <div align="center">
+ <!-- <div align="center">
     <h4 style="display: block">Things I know; but not limited to...</h4>
-  </div>
+  </div> 
+  -->
  
 <!--tech stack icons-->
 <p align="center">
