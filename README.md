@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,go,git,aws,kubernetes,docker,flask,github,html,css,bootstrap,linux,md,mongodb,mysql,nodejs,postman,react,eclipse,vscode,idea,goland&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,js,python,go,git,aws,kubernetes,docker,flask,github,html,css,jquery,bootstrap,linux,md,mongodb,mysql,nodejs,matlab,postman,react,eclipse,vscode,idea,goland&perline=5" />
   </a>
 </p>
 <!--Intro start-->
