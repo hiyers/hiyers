@@ -40,4 +40,6 @@
 <a href="https://www.instagram.com/iamharishiyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="25" width="25"/></a>
 </p>
 
+<h6 align="center" style="display: inline-block">The best way to learn something is by doing</h6>
+
 <!-- Last Updated: 12/2023 -->
